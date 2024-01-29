@@ -2,6 +2,8 @@
 Learning how to build a cafe menu using HTML and CSS
 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
+![Uploading image.png…]()
+
 
 In FreeCodeCamp.com, we learn that CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
